@@ -10,7 +10,7 @@ const fr = {
   theme: "Basculer entre thème clair et sombre",
   language: { label: "Langue", switchTo: "Read in English" },
   sections: { projects: "Projets", experience: "Parcours", contact: "Contact" },
-  project: { pro: "Pro", perso: "Perso", code: "Voir le code", technologies: "Technologies" },
+  project: { pro: "Pro", perso: "Perso", student: "École", code: "Voir le code", technologies: "Technologies" },
   notFound: { title: "Page introuvable", text: "Cette page n’existe pas, ou plus.", back: "Retour à l’accueil" },
 };
 
@@ -23,7 +23,7 @@ const en: Dictionary = {
   theme: "Toggle light and dark theme",
   language: { label: "Language", switchTo: "Lire en français" },
   sections: { projects: "Projects", experience: "Experience", contact: "Contact" },
-  project: { pro: "Work", perso: "Personal", code: "View code", technologies: "Technologies" },
+  project: { pro: "Work", perso: "Personal", student: "Academic", code: "View code", technologies: "Technologies" },
   notFound: { title: "Page not found", text: "This page doesn’t exist, or no longer does.", back: "Back to home" },
 };
 

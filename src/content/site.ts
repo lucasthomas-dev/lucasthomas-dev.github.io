@@ -25,7 +25,7 @@ export const site = {
   // Renseignée automatiquement par le workflow GitHub Pages. Avec un domaine perso, l'écrire ici.
   url: process.env.SITE_URL || "http://localhost:3000",
   // Laisser une chaîne vide masque le lien correspondant.
-  github: "https://github.com/eXor6orks",
+  github: "https://github.com/lucasthomas-dev",
   linkedin: "https://www.linkedin.com/in/lucas-thomas-519662268/",
   email: "lucas.thomas.dev@gmail.com",
 
